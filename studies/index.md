@@ -128,6 +128,8 @@ present in your working directory. To update the branch with new results, do
 `git fetch origin` and then repeat the steps in
 the above procedure starting from `# Checkout 'all-results' branch`.
 
+On Windows, results from a public study can be found under C:\Users\u…\AppData\Local\ExpORL\APEX\apexstudies\(name of the study). AppData is a hidden folder so you need to type this link to be able to access it.   
+
 Security
 --------
 
